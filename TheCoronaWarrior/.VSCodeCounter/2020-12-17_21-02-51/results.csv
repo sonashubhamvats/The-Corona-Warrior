@@ -1,0 +1,47 @@
+"filename", "language", "JSON", "Log", "ShaderLab", "HLSL", "C#", "XML", "comment", "blank", "total"
+"f:\TheCoronaWarrior\Assembly-CSharp.csproj", "XML", 0, 0, 0, 0, 0, 689, 7, 1, 697
+"f:\TheCoronaWarrior\Assets\Scripts\Enemy\CoronaAgentCharacter.cs", "C#", 0, 0, 0, 0, 97, 0, 2, 17, 116
+"f:\TheCoronaWarrior\Assets\Scripts\Enemy\CoronaBulletCharacter.cs", "C#", 0, 0, 0, 0, 19, 0, 2, 4, 25
+"f:\TheCoronaWarrior\Assets\Scripts\Enemy\CoronaQueen.cs", "C#", 0, 0, 0, 0, 28, 0, 2, 7, 37
+"f:\TheCoronaWarrior\Assets\Scripts\Enemy\CoronaQueenTrigger.cs", "C#", 0, 0, 0, 0, 23, 0, 1, 2, 26
+"f:\TheCoronaWarrior\Assets\Scripts\ItemScript\ItemScript.cs", "C#", 0, 0, 0, 0, 48, 0, 2, 4, 54
+"f:\TheCoronaWarrior\Assets\Scripts\Manager\ButtonManager.cs", "C#", 0, 0, 0, 0, 50, 0, 0, 2, 52
+"f:\TheCoronaWarrior\Assets\Scripts\Manager\DropsManager.cs", "C#", 0, 0, 0, 0, 48, 0, 2, 4, 54
+"f:\TheCoronaWarrior\Assets\Scripts\Manager\ParticleManager.cs", "C#", 0, 0, 0, 0, 38, 0, 1, 2, 41
+"f:\TheCoronaWarrior\Assets\Scripts\MechScripts\AutoSpawnSave.cs", "C#", 0, 0, 0, 0, 76, 0, 2, 11, 89
+"f:\TheCoronaWarrior\Assets\Scripts\MechScripts\Elevator.cs", "C#", 0, 0, 0, 0, 69, 0, 2, 9, 80
+"f:\TheCoronaWarrior\Assets\Scripts\MechScripts\StartGameScript.cs", "C#", 0, 0, 0, 0, 17, 0, 2, 3, 22
+"f:\TheCoronaWarrior\Assets\Scripts\PlayerScript\FollowScriptPlayer.cs", "C#", 0, 0, 0, 0, 18, 0, 2, 5, 25
+"f:\TheCoronaWarrior\Assets\Scripts\PlayerScript\PlayerHealthScript.cs", "C#", 0, 0, 0, 0, 69, 0, 0, 18, 87
+"f:\TheCoronaWarrior\Assets\Scripts\PlayerScript\PlayerMaskScript.cs", "C#", 0, 0, 0, 0, 59, 0, 2, 8, 69
+"f:\TheCoronaWarrior\Assets\Scripts\PlayerScript\PlayerMovement.cs", "C#", 0, 0, 0, 0, 121, 0, 2, 23, 146
+"f:\TheCoronaWarrior\Assets\Scripts\PlayerScript\PlayerWeaponManager.cs", "C#", 0, 0, 0, 0, 68, 0, 2, 11, 81
+"f:\TheCoronaWarrior\Assets\Scripts\WeaponScript\BulletCharacter.cs", "C#", 0, 0, 0, 0, 16, 0, 0, 2, 18
+"f:\TheCoronaWarrior\Assets\Scripts\WeaponScript\WeaponShoot.cs", "C#", 0, 0, 0, 0, 90, 0, 2, 22, 114
+"f:\TheCoronaWarrior\Assets\Sprites\Background\SVG\Space_Stars1.svg", "XML", 0, 0, 0, 0, 0, 525, 1, 1, 527
+"f:\TheCoronaWarrior\Assets\Sprites\Background\SVG\Space_Stars2.svg", "XML", 0, 0, 0, 0, 0, 55, 1, 1, 57
+"f:\TheCoronaWarrior\Assets\Sprites\Background\SVG\Space_Stars3.svg", "XML", 0, 0, 0, 0, 0, 705, 1, 1, 707
+"f:\TheCoronaWarrior\Assets\Sprites\Background\SVG\Space_Stars4.svg", "XML", 0, 0, 0, 0, 0, 348, 1, 1, 350
+"f:\TheCoronaWarrior\Assets\Sprites\Background\SVG\Space_Stars5.svg", "XML", 0, 0, 0, 0, 0, 729, 1, 1, 731
+"f:\TheCoronaWarrior\Assets\Sprites\Background\SVG\Space_Stars6.svg", "XML", 0, 0, 0, 0, 0, 179, 1, 1, 181
+"f:\TheCoronaWarrior\Assets\Sprites\Background\SVG\Space_Stars7.svg", "XML", 0, 0, 0, 0, 0, 422, 1, 1, 424
+"f:\TheCoronaWarrior\Assets\Sprites\Background\SVG\Space_Stars8.svg", "XML", 0, 0, 0, 0, 0, 391, 1, 1, 393
+"f:\TheCoronaWarrior\Assets\Sprites\Background\SVG\Space_Stars9.svg", "XML", 0, 0, 0, 0, 0, 224, 1, 1, 226
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader", "ShaderLab", 0, 0, 108, 0, 0, 0, 2, 33, 143
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader", "ShaderLab", 0, 0, 111, 0, 0, 0, 3, 31, 145
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader", "ShaderLab", 0, 0, 108, 0, 0, 0, 2, 33, 143
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader", "ShaderLab", 0, 0, 242, 0, 0, 0, 4, 71, 317
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader", "ShaderLab", 0, 0, 189, 0, 0, 0, 8, 50, 247
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader", "ShaderLab", 0, 0, 182, 0, 0, 0, 8, 50, 240
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader", "ShaderLab", 0, 0, 182, 0, 0, 0, 8, 50, 240
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader", "ShaderLab", 0, 0, 102, 0, 0, 0, 8, 28, 138
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader", "ShaderLab", 0, 0, 121, 0, 0, 0, 4, 32, 157
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader", "ShaderLab", 0, 0, 242, 0, 0, 0, 4, 71, 317
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader", "ShaderLab", 0, 0, 92, 0, 0, 0, 0, 22, 114
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc", "HLSL", 0, 0, 0, 63, 0, 0, 2, 20, 85
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc", "HLSL", 0, 0, 0, 62, 0, 0, 10, 14, 86
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc", "HLSL", 0, 0, 0, 84, 0, 0, 9, 23, 116
+"f:\TheCoronaWarrior\Assets\TextMesh Pro\Sprites\EmojiOne.json", "JSON", 155, 0, 0, 0, 0, 0, 0, 2, 157
+"f:\TheCoronaWarrior\Logs\Packages-Update.log", "Log", 0, 46, 0, 0, 0, 0, 0, 4, 50
+"f:\TheCoronaWarrior\Packages\manifest.json", "JSON", 48, 0, 0, 0, 0, 0, 0, 1, 49
+"Total", "-", 203, 46, 1679, 209, 954, 4267, 116, 699, 8173
